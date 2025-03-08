@@ -1,3 +1,13 @@
+# Air Unified Notification System
+
+## 📚 Documentation
+
+**[View the complete documentation →](./docs/)**
+
+The full system documentation, including architecture diagrams, data models, API specifications, and design decisions, is available in the [docs folder](./docs/).
+
+---
+
 # Prisma + tRPC
 
 ## Features
